@@ -15,8 +15,8 @@
 
 ###
 
-<h3 align="left">🔧 Tecnologias e Ferramentas</h3>
-<div align="left">
+<h3 align="center">🔧 Tecnologias e Ferramentas</h3>
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo"  />
@@ -30,8 +30,8 @@
 
 ### 
 
-<h3 align="left">🌐 Conecte-se Comigo</h3>
-<div align="left">
+<h3 align="center">🌐 Conecte-se Comigo</h3>
+<div align="center">
   <a href="https://www.instagram.com/garbeline.exe/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
