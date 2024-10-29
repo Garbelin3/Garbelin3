@@ -43,6 +43,6 @@
 ---
 
 <div align="center">
-  <h3>💬 "Programação é a arte de transformar café em código eficiente."</h3>
+  <h3>💬 "As vezes são daqueles que ninguém espera nada, que fazem coisas que ninguém pode imaginar."</h3>
   <p>Sempre buscando aprender e evoluir. Seja bem-vindo ao meu perfil e sinta-se à vontade para analisar códigos. Vamos construir algo incrível juntos! 🚀</p>
 </div>
