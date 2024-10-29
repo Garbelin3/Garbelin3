@@ -43,6 +43,6 @@
 ---
 
 <div align="center">
-  <h3>💬 "As vezes são daqueles que ninguém espera nada, que fazem coisas que ninguém pode imaginar."</h3>
+  <h3>💬 “Eu acredito que, às vezes, são as pessoas que ninguém espera nada, que fazem as coisas que ninguém consegue imaginar.”</h3>
   <p>Sempre buscando aprender e evoluir. Seja bem-vindo ao meu perfil e sinta-se à vontade para analisar códigos. Vamos construir algo incrível juntos! 🚀</p>
 </div>
