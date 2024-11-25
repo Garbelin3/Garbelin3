@@ -1,9 +1,9 @@
 <h2 align="center">👋 Olá! Eu sou o João Pedro 🚀</h2>
 
-<h3 align="center">Desenvolvedor Back-end | Brasil 🌎</h3>
+<h3 align="center">Desenvolvedor FullStack | Brasil 🌎</h3>
 
 <div align="center">
-  <p>Sou Desenvolvedor de soluções backend que sejam eficientes, escaláveis e bem estruturadas. Com foco em <b>Golang</b>, estou sempre buscando evoluir e aprender mais sobre o mundo da programação.</p>
+  <p>Sou Desenvolvedor de soluções FullStack que sejam eficientes, escaláveis e bem estruturadas. Com foco em <b>JavaScript</b>, estou sempre buscando evoluir e aprender mais sobre o mundo da programação.</p>
 </div>
 
 ###
@@ -19,9 +19,7 @@
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
   <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="go logo"  />
   <img width="15" />
 </div>
 
