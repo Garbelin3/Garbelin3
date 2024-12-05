@@ -1,4 +1,4 @@
-### Welcome to my GitHub Page 😻 I'm João Pedro
+### Welcome to my GitHub Page, I'm João Pedro
 #### Feel free to explore, and if you have any questions, I'm available 24/7 for you 🫵
 #### ⬇️You can reach me at...⬇️
 
