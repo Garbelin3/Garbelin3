@@ -21,8 +21,6 @@
 [![PowerShell](	https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)](#) 
 [![VScode](	https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](#) 
 
-![Snake animation](https://github.com/Garbelin3/Garbelin3/blob/output/github-contribution-grid-snake.svg)
-
 #### Tools I use to shape my projects before implementation 🎨
 
 [![Canva](		https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)](#) 
